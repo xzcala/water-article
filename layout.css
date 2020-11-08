@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+#w3logo {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 150px;
+}
+
+h1, h2 {
+	height: 5%;
+	background-color: #de34eb;
+	border-bottom: 1px solid #c813d6;
+	color: #fff;
+	font-weight: bold;
+	width: 95%;
+	margin-top: 15px;
+	margin-left: 15px;
+	letter-spacing: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+}
+
+body {
+	background-color: #fcf2fc;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	font-style: normal;
+	font-weight: 200;
+}
